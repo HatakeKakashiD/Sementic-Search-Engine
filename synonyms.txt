@@ -1,0 +1,70 @@
+
+love, romance, affection, infatuation, devotion, adoration, passion, fondness
+betrayal, treachery, deceit, disloyalty, perfidy, duplicity, backstabbing
+friendship, camaraderie, companionship, fellowship, amity, alliance, rapport
+adventure, quest, journey, expedition, exploration, escapade, venture
+revenge, retribution, vengeance, payback, retaliation, reprisal, justice
+hero, protagonist, main character, champion, savior, idol, lead
+villain, antagonist, bad guy, adversary, foe, enemy, nemesis
+conflict, struggle, battle, clash, fight, opposition, contest
+sacrifice, giving up, selflessness, martyrdom, renunciation, altruism
+redemption, forgiveness, atonement, absolution, salvation, exoneration, restoration
+mystery, enigma, puzzle, riddle, conundrum, secret, unknown
+survival, endurance, resilience, perseverance, tenacity, grit, persistence
+transformation, change, metamorphosis, evolution, conversion, renewal, rebirth
+discovery, revelation, uncovering, finding, realization, epiphany, disclosure
+coming of age, maturity, growth, adulthood, development, rite of passage
+family, kinship, lineage, relatives, ancestry, household, clan
+loss, grief, mourning, bereavement, sorrow, lamentation, desolation
+thrilling, suspenseful, exhilarating, gripping, electrifying, tense, exciting
+comedy, humor, light-heartedness, amusement, fun, hilarity, satire
+dark, tragic, somber, gloomy, melancholic, sorrowful, grim
+bravery, courage, valor, boldness, fearlessness, daring, heroism
+deception, trickery, illusion, cunning, guile, craftiness, manipulation
+destiny, fate, fortune, providence, kismet, predestination, karma
+greed, avarice, selfishness, materialism, covetousness, acquisitiveness, gluttony
+hope, optimism, aspiration, ambition, desire, wish, dream
+fear, dread, terror, horror, anxiety, panic, fright
+obsession, fixation, mania, compulsion, addiction, craving, passion
+jealousy, envy, resentment, covetousness, bitterness, rivalry
+freedom, liberty, independence, autonomy, emancipation, self-determination
+power, strength, dominance, authority, control, mastery, supremacy
+wealth, riches, fortune, affluence, prosperity, opulence, luxury
+destruction, ruin, devastation, annihilation, obliteration, havoc, demolition
+justice, fairness, equity, impartiality, righteousness, lawfulness, integrity
+innocence, purity, naivety, virtue, blamelessness, chastity, incorruption
+reconciliation, reunion, conciliation, peace, settlement, compromise, accord
+intrigue, fascination, curiosity, interest, allure, mystery, attraction
+ambition, aspiration, desire, determination, goal, objective, drive
+conspiracy, plot, scheme, intrigue, collusion, plan, machination
+triumph, victory, success, conquest, win, achievement, accomplishment
+failure, defeat, loss, collapse, downfall, shortcoming, fiasco
+surprise, shock, astonishment, amazement, bewilderment, wonder, startle
+loyalty, faithfulness, allegiance, fidelity, devotion, constancy, commitment
+betrayal, treachery, deceit, disloyalty, perfidy, backstabbing, double-crossing
+illusion, delusion, fantasy, mirage, trick, hallucination, figment
+war, conflict, battle, warfare, hostilities, combat, struggle
+peace, harmony, tranquility, calmness, serenity, quietude, stillness
+revolution, uprising, rebellion, revolt, insurrection, mutiny, coup
+technology, innovation, science, invention, machinery, advancement, engineering
+future, tomorrow, destiny, time ahead, prospect, outlook, coming days
+past, history, bygone era, yesteryear, former times, olden days
+legacy, heritage, inheritance, bequest, endowment, tradition, patrimony
+magic, sorcery, witchcraft, wizardry, enchantment, spellcasting, supernatural
+superpower, extraordinary ability, special power, superhuman strength, mutant ability, enhanced skill
+alien, extraterrestrial, otherworldly being, foreigner, space being, invader, ET
+robot, android, automaton, machine, artificial intelligence, cyborg, mech
+time travel, temporal journey, chronal displacement, time jumping, time loop, alternate timeline
+parallel universe, alternate reality, multiverse, mirror world, other dimension, alternative existence
+dystopia, nightmare society, totalitarian state, ruined future, oppressive regime, authoritarian world
+utopia, ideal society, perfect world, paradise, dreamland, blissful existence
+monster, creature, beast, fiend, abomination, horror, freak
+haunted, ghostly, eerie, supernatural, possessed, cursed, phantasmagoric
+vampire, bloodsucker, undead, night creature, nosferatu, immortal, dracula
+zombie, undead, walking dead, reanimated corpse, ghoul, brain-eater
+wizard, sorcerer, mage, magician, warlock, enchanter, spellcaster
+witch, sorceress, enchantress, spellcaster, crone, hag, warlock
+pirate, buccaneer, privateer, corsair, marauder, sea robber, sea captain
+treasure, riches, gold, bounty, loot, fortune, hidden wealth
+journey, expedition, adventure, voyage, trek, odyssey, pilgrimage
+ship, vessel, boat, craft, schooner, frigate, liner
